@@ -1,0 +1,252 @@
+body {}
+
+.row1 {
+    height: 90px;
+
+}
+
+.row2 {
+    height: 1000px;
+
+}
+
+.row3 {
+
+    margin-left: 0px;
+}
+
+.row4 {
+
+    margin-top: 40px;
+}
+
+footer {
+    margin-top: 100px;
+    color: white;
+    background-color: #ed145b;
+}
+
+h1 {
+    font-size: 54px;
+    font-family: "Georgia";
+    font-weight: 600;
+    margin-right: 20px;
+    margin-left: 20px;
+}
+
+@media screen and (max-width: 600px) {
+    h1 {
+        font-size: 40px;
+    }
+}
+
+h2 {
+    position: absolute;
+    font-size: 54px;
+    font-family: "Trebuchet MS";
+    font-weight: 600;
+}
+
+@media screen and (max-width: 600px) {
+    h2 {
+        font-size: 40px;
+    }
+}
+
+h3 {
+    font-size: 28px;
+}
+
+@media screen and (max-width: 600px) {
+    h3 {
+        font-size: 16px;
+    }
+}
+
+h4 {
+    font-size: 20px;
+}
+
+p1 {
+    font-size: 18px;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+p2 {
+    font-size: 10px;
+}
+
+
+navbar-brand {
+    float: right;
+    background-color: aqua;
+}
+
+.imageCon {
+    height: auto
+}
+
+.image1 {
+    height: auto;
+    max-width: 100%;
+}
+
+.image2 {
+
+    height: 300px;
+    max-width: 50%;
+    min-height: 100px;
+}
+
+.image3 {
+
+    height: 300px;
+    max-width: 50%;
+    min-height: 100px;
+}
+
+.formImage1 {
+    height: auto;
+    max-width: 100%;
+}
+
+.heroT1 {
+    color: white;
+}
+
+.heroT2 {
+    width: 900px;
+    color: white;
+    position: absolute;
+    top: 25%;
+    left: 50%;
+    transform: translate(-25%, -300%);
+}
+
+.heroT3 {
+    width: 900px;
+    color: white;
+    position: absolute;
+    top: 20%;
+    left: 50%;
+    text-align-last: center;
+    transform: translate(-49%, 200%);
+}
+
+.heroT4 {
+    text-align: center;
+}
+
+.formT2 {
+    color: white;
+    position: absolute;
+    top: 25%;
+    left: 50%;
+    transform: translate(-26%, -300%);
+}
+
+.formT3 {
+    color: white;
+    position: absolute;
+    top: 20%;
+    left: 50%;
+    text-align-last: center;
+    transform: translate(-49%, 200%);
+}
+
+.button1 {
+    color: white;
+    height: 50px;
+    width: 250px;
+    background-color: transparent;
+    position: sticky;
+    top: 50%;
+    left: 50%;
+    transform: translate(10%, -300%);
+}
+
+.button2 {
+    color: white;
+    height: 50px;
+    width: 250px;
+    background-color: #ed145b;
+    margin-top: 70px;
+    position: sticky;
+    top: 50%;
+    left: 50%;
+    transform: translate(-110%, -300%);
+}
+
+.button3 {
+    color: white;
+    height: 50px;
+    width: 250px;
+    background-color: #ed145b;
+    position: absolute;
+    left: 50%;
+    transform: translate(-50%, 0%);
+}
+
+.button4 {
+    color: white;
+    height: 50px;
+    width: 250px;
+    background-color: #ed145b;
+}
+
+.button5 {
+    color: white;
+    height: 50px;
+    width: 250px;
+    background-color: #ed145b;
+}
+
+.button6 {
+    color: white;
+    height: 50px;
+    width: 250px;
+    background-color: #ed145b;
+}
+
+.button7 {
+    color: white;
+    height: 50px;
+    width: 250px;
+    background-color: #ed145b;
+    position: absolute;
+    left: 50%;
+    transform: translate(262%, 500%);
+}
+
+.button8 {
+    color: white;
+    height: 50px;
+    width: 250px;
+    background-color: #ed145b;
+    position: absolute;
+    left: 50%;
+    transform: translate(-106%, 500%);
+}
+
+.copyright {
+    background-color: black;
+}
+
+label {
+    color: #ed145b;
+}
+
+.formDivider {
+    top: 30%;
+    transform: translate(0%, -40000%);
+}
+
+.tableS {
+    margin-top: 40px;
+    margin-bottom: 40px;
+}
+
+a {
+    color: white;
+}
